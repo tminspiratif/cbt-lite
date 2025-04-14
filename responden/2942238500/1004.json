@@ -1,0 +1,16 @@
+{
+  "responden": [
+    {
+      "lockId": "06e9b819-ebdf-45fd-a0cf-507149c873ed",
+      "responden": [
+        "8171bdb4-4358-4971-9846-b2387700629a"
+      ],
+      "type": "CHOICE"
+    },
+    {
+      "lockId": "da8c05ec-ebdf-4501-a0cf-3bc8cb02bf9c",
+      "responden": "Jelaskan padakuu",
+      "type": "ESSAY"
+    }
+  ]
+}
